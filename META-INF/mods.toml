@@ -1,0 +1,26 @@
+modLoader="lowcodefml"
+loaderVersion="[1,)"
+license="MIT"
+issueTrackerURL="https://github.com/catter1/Terralith_ReStoned/issues"
+
+[[mods]]
+    modId="terralith_restoned"
+    version="1.0"
+    displayName="Terralith ReStoned"
+    displayURL="https://github.com/catter1/Terralith_ReStoned"
+    logoFile="pack.png"
+    authors="catter1"
+    description="An UNOFFICIAL add-on to Terralith that re-adds normal Andesite, Diorite, and Granite blobs underground"
+
+[[dependencies.terralith]]
+    modId="forge"
+    mandatory=false
+    versionRange="[46,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.terralith]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20,)"
+    ordering="NONE"
+    side="BOTH"
