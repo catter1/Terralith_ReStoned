@@ -12,15 +12,21 @@ issueTrackerURL="https://github.com/catter1/Terralith_ReStoned/issues"
     authors="catter1"
     description="An UNOFFICIAL add-on to Terralith that re-adds normal Andesite, Diorite, and Granite blobs underground"
 
-[[dependencies.terralith]]
+[[dependencies.terralith_restoned]]
     modId="forge"
     mandatory=false
     versionRange="[46,)"
     ordering="NONE"
     side="BOTH"
-[[dependencies.terralith]]
+[[dependencies.terralith_restoned]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.20,)"
     ordering="NONE"
+    side="BOTH"
+[[dependencies.terralith_restoned]]
+    modId="terralith"
+    mandatory=false
+    versionRange="[2.0,)"
+    ordering="AFTER"
     side="BOTH"
