@@ -5,7 +5,7 @@ issueTrackerURL="https://github.com/catter1/Terralith_ReStoned/issues"
 
 [[mods]]
     modId="terralith_restoned"
-    version="1.0"
+    version="1.1"
     displayName="Terralith ReStoned"
     displayURL="https://github.com/catter1/Terralith_ReStoned"
     logoFile="pack.png"
