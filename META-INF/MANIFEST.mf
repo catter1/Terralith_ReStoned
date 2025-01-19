@@ -1,8 +1,8 @@
 Manifest-Version: 1.0
 Specification-Title: terralith_restoned
 Specification-Vendor: catter1
-Specification-Version: 1.1
+Specification-Version: 1.2
 Implementation-Title: terralith_restoned
-Implementation-Version: 1.1
+Implementation-Version: 1.2
 Implementation-Vendor: catter1
-Implementation-Timestamp: 2025-01-15T18:44:13+0200
+Implementation-Timestamp: 2025-01-19T15:51:34+0200

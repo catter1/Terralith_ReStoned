@@ -3,7 +3,7 @@
     "quilt_loader": {
         "group": "dev.catter",
         "id": "terralith_restoned",
-        "version": "1.0",
+        "version": "1.2",
         "metadata": {
             "name": "Terralith ReStoned",
             "description": "An UNOFFICIAL add-on to Terralith that re-adds normal Andesite, Diorite, and Granite blobs underground",
