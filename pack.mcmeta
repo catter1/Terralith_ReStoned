@@ -1,10 +1,12 @@
 {
     "pack": {
-        "description": "An UNOFFICIAL add-on to Terralith that re-adds normal Andesite, Diorite, and Granite blobs underground",
+        "description": "An offical add-on to Terralith that re-adds normal Andesite, Diorite, and Granite blobs underground",
         "pack_format": 15,
         "supported_formats": [
             15,
-            61
-        ]
+            94
+        ],
+        "min_format": 15,
+        "max_format": 94
     }
 }
