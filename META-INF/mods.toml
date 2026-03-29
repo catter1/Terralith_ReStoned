@@ -10,14 +10,8 @@ issueTrackerURL="https://github.com/catter1/Terralith_ReStoned/issues"
     displayURL="https://github.com/catter1/Terralith_ReStoned"
     logoFile="pack.png"
     authors="catter1"
-    description="An UNOFFICIAL add-on to Terralith that re-adds normal Andesite, Diorite, and Granite blobs underground"
+    description="An official add-on to Terralith that re-adds normal Andesite, Diorite, and Granite blobs underground"
 
-[[dependencies.terralith_restoned]]
-    modId="forge"
-    mandatory=false
-    versionRange="[46,)"
-    ordering="NONE"
-    side="BOTH"
 [[dependencies.terralith_restoned]]
     modId="minecraft"
     mandatory=true
@@ -26,7 +20,7 @@ issueTrackerURL="https://github.com/catter1/Terralith_ReStoned/issues"
     side="BOTH"
 [[dependencies.terralith_restoned]]
     modId="terralith"
-    mandatory=false
+    mandatory=true
     versionRange="[2.0,)"
     ordering="AFTER"
     side="BOTH"

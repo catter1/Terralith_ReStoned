@@ -24,11 +24,6 @@
                 "versions": ">=1.20"
             },
             {
-                "id": "quilt_resource_loader",
-                "versions": "*",
-                "unless": "fabric-resource-loader-v0"
-            },
-            {
                 "id": "terralith",
                 "versions": ">=2.0.0"
             }
